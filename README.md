@@ -4,7 +4,7 @@
 [![Youtube](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/edgard_andra) 
 
 
-![Edgar GitHub stats](https://github-readme-stats.vercel.app/api?username=edgarAndradeN&show_icons=true&theme=dracula)
+![Edgar GitHub stats](https://github-readme-stats.vercel.app/api?username=edgarAndradeN&show_icons=true&theme=Gradient)
 
 ## Tecnologias que uso no meu dia
 
