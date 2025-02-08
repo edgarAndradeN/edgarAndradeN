@@ -1,4 +1,4 @@
-## Olá eu Sou Edgar Andrade 🖐️
+## Olá! Eu Sou Edgar Andrade 🖐️
 
 [![Youtube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@edgarandrade2912) 
 [![Youtube](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/edgard_andra) 
